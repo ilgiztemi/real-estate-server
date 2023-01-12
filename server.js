@@ -11,7 +11,7 @@ const PORT = 8010;
 express()
   //default
   .use(cors({    
-    origin: ["https://real-estate-client-app.netlify.app", "https://real-estate-client-sepia.vercel.app"],
+    origin: ["https://real-estate-client-sepia.vercel.app"],
 }))
   .use(function (req, res, next) {
     res.header(
