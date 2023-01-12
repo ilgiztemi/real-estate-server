@@ -1,0 +1,221 @@
+[
+  {
+    "_id": 8000,
+    "image": [
+      "https://cdn.realtor.ca/listings/TS637953082678100000/reb5/medres/1/20738151_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082678830000/reb5/highres/1/20738151_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082678900000/reb5/highres/1/20738151_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082678930000/reb5/highres/1/20738151_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082678970000/reb5/highres/1/20738151_5.jpg"
+    ],
+    "price": "$547,000",
+    "street": "5503 Av. Smart",
+    "city": "Côte-Saint-Luc",
+    "province": "Quebec",
+    "postal_code": "H4W2M2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+      "lat": 45.458565,
+      "lng": -73.665305
+    }
+  },
+  {
+    "_id": 8001,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953082730770000/reb5/highres/9/26809979_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082732770000/reb5/highres/9/26809979_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082733930000/reb5/highres/9/26809979_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082734100000/reb5/highres/9/26809979_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082734330000/reb5/highres/9/26809979_5.jpg"
+    ],
+    "price": "$1,997,000",
+    "street": "963-967 Av. Davaar",
+    "city": "Montréal (Outremont)",
+    "province": "Quebec",
+    "postal_code": "H2V3B7",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.519142,
+        "lng": -73.620169
+      }
+  },
+  {
+    "_id": 8002,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953082610400000/reb5/highres/6/12946216_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082611070000/reb5/highres/6/12946216_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082611300000/reb5/highres/6/12946216_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082611500000/reb5/highres/6/12946216_6.jpg"
+    ],
+    "price": "$575,000",
+    "street": "2300 Rue Wilfrid-Reid",
+    "city": "Montréal (Saint-Laurent)",
+    "province": "Quebec",
+    "postal_code": "H4R0N6",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.517812,
+        "lng": -73.712148
+      }
+  },
+  {
+    "_id": 8003,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953011325600000/reb5/highres/5/28498005_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011326170000/reb5/highres/5/28498005_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011326500000/reb5/highres/5/28498005_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011326570000/reb5/highres/5/28498005_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011326670000/reb5/highres/5/28498005_6.jpg"
+    ],
+    "price": "$547,000",
+    "street": "5503 Av. Smart",
+    "city": "Côte-Saint-Luc",
+    "province": "Quebec",
+    "postal_code": "H4W2M2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.458565,
+        "lng": -73.665305
+      }
+  },
+  {
+    "_id": 8004,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953011268630000/reb5/highres/1/22050821_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011269630000/reb5/highres/1/22050821_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011269700000/reb5/highres/1/22050821_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011269800000/reb5/highres/1/22050821_7.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011269900000/reb5/highres/1/22050821_9.jpg"
+    ],
+    "price": "$688,000",
+    "street": "2038 Rue De Bullion",
+    "city": "Montréal (Ville-Marie)",
+    "province": "Quebec",
+    "postal_code": "H2X3Z3",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.513095,
+        "lng": -73.567261
+      }
+  },
+  {
+    "_id": 8005,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953011244330000/reb5/highres/8/19350528_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011246070000/reb5/highres/8/19350528_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011246630000/reb5/highres/8/19350528_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011246800000/reb5/highres/8/19350528_6.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011246930000/reb5/highres/8/19350528_9.jpg"
+    ],
+    "price": "$547,000",
+    "street": "5503 Av. Smart",
+    "city": "Côte-Saint-Luc",
+    "province": "Quebec",
+    "postal_code": "H4W2M2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.458565,
+        "lng": -73.665305
+      }
+  },
+  {
+    "_id": 8006,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953011187970000/reb5/highres/2/12673072_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011189200000/reb5/highres/2/12673072_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011189270000/reb5/highres/2/12673072_5.jpg",
+      "https://cdn.realtor.ca/listing/TS637953011189600000/reb5/highres/2/12673072_7.jpg"
+    ],
+    "price": "$750,000",
+    "street": "6269Z 3e Avenue",
+    "city": "Montréal (Rosemont/La Petite-Patrie)",
+    "province": "Quebec",
+    "postal_code": "H1Y2X6",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.55105,
+        "lng": -73.587322
+      }
+  },
+  {
+    "_id": 8007,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637952937842200000/reb5/highres/9/14831299_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937842930000/reb5/highres/9/14831299_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937843370000/reb5/highres/9/14831299_5.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937843400000/reb5/highres/9/14831299_6.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937843500000/reb5/highres/9/14831299_7.jpg"
+    ],
+    "price": "$449,000",
+    "street": "363 Rue St-Hubert",
+    "city": "Montréal (Ville-Marie)",
+    "province": "Quebec",
+    "postal_code": "H2L0A8",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.512568,
+        "lng": -73.550287
+      }
+  },
+  {
+    "_id": 8008,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637952937880870000/reb5/highres/0/22618830_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937881400000/reb5/highres/0/22618830_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937881700000/reb5/highres/0/22618830_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937881770000/reb5/highres/0/22618830_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637952937881930000/reb5/highres/0/22618830_7.jpg"
+    ],
+    "price": "$349,000",
+    "street": "8540 Rue Raymond-Pelletier",
+    "city": "Montréal (Ahuntsic-Cartierville)",
+    "province": "Quebec",
+    "postal_code": "H2M0A1",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.552064,
+        "lng": -73.631646
+      }
+  },
+  {
+    "_id": 8009,
+    "image": [
+      "https://cdn.realtor.ca/listing/TS637953082615200000/reb5/highres/9/13644269_1.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082615770000/reb5/highres/9/13644269_2.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082616170000/reb5/highres/9/13644269_3.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082616200000/reb5/highres/9/13644269_4.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082616300000/reb5/highres/9/13644269_5.jpg",
+      "https://cdn.realtor.ca/listing/TS637953082616370000/reb5/highres/9/13644269_7.jpg"
+    ],
+    "price": "$689,900",
+    "street": "11 Rue Charlevoix",
+    "city": "Montréal (Le Sud-Ouest)",
+    "province": "Quebec",
+    "postal_code": "H3J2V9",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "agency": "Final Project Agency",
+    "center": {
+        "lat": 45.480819,
+        "lng": -73.573096
+      }
+  }
+]
