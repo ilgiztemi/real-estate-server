@@ -10,7 +10,7 @@ const options = {
 };
 const dbName = "real_estate";
 
-const { sendResponse } = require("./helperFunctions.js");
+const { sendResponse } = require("./helperFUnctions");
 //this function create api for importing all adds from mongoDB database
 const getAdds = async (req, res) => {
   const client = new MongoClient(MONGO_URI, options);
