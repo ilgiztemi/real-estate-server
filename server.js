@@ -3,11 +3,16 @@
 // import the needed node_modules.
 const express = require("express");
 const morgan = require("morgan");
+const cors = require('cors')
+
 
 const PORT = 8010;
 
 express()
   //default
+  .use(cors({    
+    origin: ["http://localhost:3000", "https://real-estate-client-sepia.vercel.app"],
+}))
   .use(function (req, res, next) {
     res.header(
       "Access-Control-Allow-Methods",
